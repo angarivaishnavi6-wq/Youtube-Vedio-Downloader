@@ -1,0 +1,15 @@
+{
+  "download_folder": "~/Downloads/YT-Downloader",
+  "appearance_mode": "dark",
+  "default_quality": "1080p",
+  "default_format": "mp4",
+  "max_concurrent": 2,
+  "auto_detect_clipboard": true,
+  "download_subtitles": false,
+  "subtitle_language": "en",
+  "download_history": [],
+  "language": "en",
+  "last_folder": "",
+  "show_speed": true,
+  "auto_convert_mp4": true
+}
